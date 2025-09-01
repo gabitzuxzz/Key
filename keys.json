@@ -1,1 +1,12 @@
-["nigga", "test-key-2", "admin-key"]
+[
+  "nigga",
+  "test-key-2",
+  "admin-key",
+  {
+    "key": "bru",
+    "generatedAt": "2025-09-01T19:03:11.263Z",
+    "expiresInDays": 365,
+    "generatedBy": "gabitzuxzzz",
+    "userId": "1250740028406108270"
+  }
+]
